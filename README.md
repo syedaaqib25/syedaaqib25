@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedaaqib25&show_icons=true&locale=en" alt="syedaaqib25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedaaqib25&" alt="syedaaqib25" /></p>
+<div align="center">
+  
+![snake gif](https://github.com/syedaaqib25/syedaaqib25/blob/output/github-snake.svg)
+</div>
