@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **syedaqib2742@gmail.com**
 
-- ⚡ Fun fact **I like to go Gym, Play video Games and Travel**
+- ⚡ Fun fact **I like going Gym, Play video Games and Travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
