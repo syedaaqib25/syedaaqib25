@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedaaqib25&label=Profile%20views&color=0e75b6&style=flat" alt="syedaaqib25" /> </p>
 
-- 💬 Ask me about **Android Development, Data Analysis, Cyber Security and Programming**
+- 💬 Ask me about: **Android Development, Data Analysis, Cyber Security and Programming**
 
-- 📫 How to reach me **syedaqib2742@gmail.com**
+- 📫 How to reach me: **syedaqib2742@gmail.com**
 
-- ⚡ Fun fact **I like working out, Play video Games and Travel to different places**
+- ⚡ Hobbies: **I like working out, Play video Games and Travel to different places**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
