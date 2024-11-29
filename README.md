@@ -6,16 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedaaqib25&label=Profile%20views&color=0e75b6&style=flat" alt="syedaaqib25" /> </p>
 
-- 💬 Ask me about **Android Development, Data Analysis, Cyber Security, Programming**
+- 💬 Ask me about **Android Development, Data Analysis, Cyber Security and Programming**
 
 - 📫 How to reach me **syedaqib2742@gmail.com**
 
-- ⚡ Fun fact **I like going Gym, Play video Games and Travel**
+- ⚡ Fun fact **I like working out, Play video Games and Travel to different places**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/syed-aaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/syed-aaqib" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gam_harp_33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gam_harp_33" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gam_harp_33" target="blank"><img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="gam_harp_33" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syedaaqib25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedaaqib25" height="30" width="40" /></a>
 </p>
 
@@ -29,5 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedaaqib25&" alt="syedaaqib25" /></p>
 <div align="center">
   
-![snake gif](https://github.com/syedaaqib25/syedaaqib25/blob/output/github-snake.svg)
+![snake gif](https://github.com/syedaaqib25/syedaaqib25/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
