@@ -29,5 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedaaqib25&" alt="syedaaqib25" /></p>
 <div align="center">
   
-![snake gif](https://github.com/syedaaqib25/syedaaqib25/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/syedaaqib25/syedaaqib25/blob/output/github-contribution-grid-snake.svg)
 </div>
