@@ -18,7 +18,7 @@
 <a href="https://www.leetcode.com/syedaaqib25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedaaqib25" height="30" width="40" /></a>
 </p>
 <div align="center">
-  <a href="https://github.com/abhijeetBhale/Portfolio/blob/6bb27e4bc220b09db54cb01daa7fa4714e3484b9/assets/Abhijeet%20Bhale%20Resume%20Updated%201.pdf" target="_blank">
+  <a href="[https://github.com/abhijeetBhale/Portfolio/blob/6bb27e4bc220b09db54cb01daa7fa4714e3484b9/assets/Abhijeet%20Bhale%20Resume%20Updated%201.pdf](https://github.com/syedaaqib25/Web-Portfolio/blob/main/assets/syedgencv.pdf)" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </div>
