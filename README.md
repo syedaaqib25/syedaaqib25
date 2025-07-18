@@ -13,9 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://web-portfolio-iota-hazel.vercel.app/" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/adobe-portfolio/adobe-portfolio-icon-filled.png?v=1714773138723" alt="syedaaqib25" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/syed-aaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/syed-aaqib" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gam_harp_33" target="blank"><img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="gam_harp_33" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syedaaqib25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedaaqib25" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gam_harp_33" target="blank"><img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="gam_harp_33" height="30" width="40" /></a>
 </p>
 <div align="center">
   <a href="https://github.com/syedaaqib25/Web-Portfolio/blob/main/assets/syedgencv.pdf" target="_blank">
