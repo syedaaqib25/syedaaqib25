@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hey there 👋, I'm <span style="color:#00FFFF">Syed Aqib</span></h1>
-<h3 align="center" style="color:#66FCF1;">💻 Computer Engineer | 📊 Data Analyst | 📱 Android Developer | 🛡️ Ethical Hacker | 🖥️ Full Stack Developer</h3>
+<h3 align="center" style="color:#66FCF1;">💻 Computer Engineer | 📊 Data Analyst | 🛡️ Ethical Hacker | 🖥️ Full Stack & Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd2MWFwYmFneDFtZzI0NmtqOWNnNmU1cDJjZ2czajlrdXo0cHFlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWbXcpeKhTktXi/giphy.webp">
 
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **syedaqib2742@gmail.com**
 
-- ⚡ Hobbies: **I like working out, Play video Games and Travel to different places**
+- ⚡ Hobbies: **I like working out, Play video Games and to Travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
