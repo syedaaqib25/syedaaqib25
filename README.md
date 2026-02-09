@@ -19,7 +19,7 @@
 <a href="https://www.codechef.com/users/gam_harp_33" target="blank"><img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="gam_harp_33" height="30" width="40" /></a>
 </p>
 <div align="center">
-  <a href="https://github.com/syedaaqib25/Web-Portfolio/blob/main/assets/syedgencv.pdf" target="_blank">
+  <a href="https://github.com/syedaaqib25/Web-Portfolio/blob/main/assets/cvlax.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </div>
