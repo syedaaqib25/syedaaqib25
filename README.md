@@ -1,85 +1,134 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hey there 👋, I'm <span style="color:#00FFFF">Syed Aqib</span></h1>
-<h3 align="center" style="color:#66FCF1;">💻 Computer Engineer | 📊 Data Analyst | 🛡️ Ethical Hacker | 🖥️ Full Stack & Android Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd2MWFwYmFneDFtZzI0NmtqOWNnNmU1cDJjZ2czajlrdXo0cHFlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWbXcpeKhTktXi/giphy.webp">
+<!-- ======================== PROFILE README ======================== -->
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedaaqib25&label=Profile%20views&color=0e75b6&style=flat" alt="syedaaqib25" /> </p>
-
-
-- 📫 How to reach me: **syedaqib2742@gmail.com**
-
-- ⚡ Hobbies: **I like working out, Play video Games and to Travel**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://web-portfolio-iota-hazel.vercel.app/" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/adobe-portfolio/adobe-portfolio-icon-filled.png?v=1714773138723" alt="syedaaqib25" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/syed-aaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/syed-aaqib" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syedaaqib25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedaaqib25" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gam_harp_33" target="blank"><img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="gam_harp_33" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" alt="Banner"/>
 </p>
-<div align="center">
-  <a href="https://github.com/syedaaqib25/Web-Portfolio/blob/main/assets/cvlax.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
+
+<h1 align="center">Hi 👋, I'm Syed Aqib</h1>
+<h3 align="center">Computer Engineer | Full Stack & Android Developer | Data Analyst | Ethical Hacking Enthusiast</h3>
+
+<p align="center">
+  Passionate about building scalable applications, solving real-world problems, and learning modern technologies.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedaaqib25&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering Student  
+- 💻 Full Stack & Android Developer  
+- 📊 Interested in Data Analytics & Visualization  
+- 🛡️ Exploring Cybersecurity & Ethical Hacking  
+- 🎮 Gaming | 🏋️ Fitness | ✈️ Travel  
+- 📫 Reach me: **syedaqib2742@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://web-portfolio-iota-hazel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</div>
 
-## 🧰 Languages and Tools
+  <a href="https://www.linkedin.com/in/syed-aaqib" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-### 👨‍💻 Languages  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://leetcode.com/syedaaqib25" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/gam_harp_33" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
-### 🛠️ Tools & Platforms  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://wallpapers.com/images/featured/tableau-logo-png-th525w75z77ccxc9.jpg" alt="Tableau" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <br/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
-  <img src="https://iconape.com/wp-content/png_logo_vector/apache-spark.png" alt="Spark" width="40" height="40"/>
+<p align="center">
+  <a href="https://github.com/syedaaqib25/Web-Portfolio/blob/main/assets/cvlax.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,javascript,r" />
+</p>
+
+### Frameworks & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql,git,linux,figma,androidstudio" />
+</p>
+
+### Data Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedaaqib25&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedaaqib25&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedaaqib25&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedaaqib25&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p> -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedaaqib25&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedaaqib25&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/syedaaqib25/syedaaqib25/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedaaqib25&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/syedaaqib25/actions" target="_blank">
+    View Snake Graph
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedaaqib25&theme=react-dark&hide_border=true" />
+  <sub>If unavailable, GitHub Action is regenerating it.</sub>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedaaqib25/syedaaqib25/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedaaqib25/syedaaqib25/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syedaaqib25/syedaaqib25/output/pacman-contribution-graph.svg">
-</picture>
+
+---
+
+## 👾 Pacman Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedaaqib25/syedaaqib25/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedaaqib25/syedaaqib25/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/syedaaqib25/syedaaqib25/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+  <i>"Build. Learn. Improve. Repeat."</i>
+</p>
